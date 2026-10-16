@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0EFEB9-257F-4493-9181-11D5998ED2F7}|6trpo\\6trpo.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0EFEB9-257F-4493-9181-11D5998ED2F7}|6trpo\\6trpo.csproj|solutionrelative:6trpo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0EFEB9-257F-4493-9181-11D5998ED2F7}|6trpo\\6trpo.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0EFEB9-257F-4493-9181-11D5998ED2F7}|6trpo\\6trpo.csproj|solutionrelative:6trpo\\models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0EFEB9-257F-4493-9181-11D5998ED2F7}|6trpo\\6trpo.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0EFEB9-257F-4493-9181-11D5998ED2F7}|6trpo\\6trpo.csproj|solutionrelative:6trpo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0EFEB9-257F-4493-9181-11D5998ED2F7}|6trpo\\6trpo.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0EFEB9-257F-4493-9181-11D5998ED2F7}|6trpo\\6trpo.csproj|solutionrelative:6trpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0EFEB9-257F-4493-9181-11D5998ED2F7}|6trpo\\6trpo.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B0EFEB9-257F-4493-9181-11D5998ED2F7}|6trpo\\6trpo.csproj|solutionrelative:6trpo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0EFEB9-257F-4493-9181-11D5998ED2F7}|6trpo\\6trpo.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\bd\\emoylesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0EFEB9-257F-4493-9181-11D5998ED2F7}|6trpo\\6trpo.csproj|solutionrelative:6trpo\\bd\\emoylesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\appsettings.json",
+              "RelativeDocumentMoniker": "6trpo\\appsettings.json",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\appsettings.json",
+              "RelativeToolTip": "6trpo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-15T10:37:26.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "6trpo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\Models\\Employee.cs",
+              "RelativeToolTip": "6trpo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T16:00:38.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "6trpo\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "6trpo\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:37:55.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\Models\\WebApiDatabaseContext.cs",
+              "RelativeDocumentMoniker": "6trpo\\Models\\WebApiDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\Models\\WebApiDatabaseContext.cs",
+              "RelativeToolTip": "6trpo\\Models\\WebApiDatabaseContext.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAADwv3oAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:26:17.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmoylessContext.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\BD\\EmoylessContext.cs",
+              "RelativeDocumentMoniker": "6trpo\\BD\\EmoylessContext.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\BD\\EmoylessContext.cs",
+              "RelativeToolTip": "6trpo\\BD\\EmoylessContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:58:10.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\Program.cs",
+              "RelativeDocumentMoniker": "6trpo\\Program.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\6trpo\\6trpo\\Program.cs",
+              "RelativeToolTip": "6trpo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:48:42.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
